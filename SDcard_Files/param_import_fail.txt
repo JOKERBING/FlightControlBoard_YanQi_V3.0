@@ -1,0 +1,19 @@
+HW arch: HKUST_NXT
+FW git-hash: 59a22c1904ec3d1d598ea04cc48ff90d5cf7bea0
+FW version: 1.13.2 0 (17629696)
+FW git-branch: pre_release_v1.2.x_firmware
+OS: NuttX
+OS version: Release 11.0.0 (184549631)
+OS git-hash: 91bece51afbe7da9db12e3695cdbb4f4bba4bc83
+Build datetime: Jun  1 2023 15:25:53
+Build uri: localhost
+Build variant: default
+Toolchain: GNU GCC, 9.3.1 20200408 (release)
+PX4GUID: 000600000000383632333131510e003d0029
+MCU: STM32H7[4|5]xxx, rev. V
+INFO  [param] selected parameter default file /fs/microsd/params
+ERROR [param] open '/fs/microsd/params' failed (2)
+ERROR [init] param import failed
+ERROR [param] open '/fs/microsd/params' failed (2)
+dmesg [23:100]
+cp [29:100]
