@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator=FPC? NewDesignator=FPC1
+Change Component Designator: OldDesignator=FPC? NewDesignator=FPC2
+Change Component Designator: OldDesignator=H? NewDesignator=H1
+Change Component Designator: OldDesignator=H? NewDesignator=H2
+Change Component Designator: OldDesignator=H? NewDesignator=H3
+Change Component Designator: OldDesignator=H? NewDesignator=H4
+Change Component Designator: OldDesignator=M?? NewDesignator=M1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB2
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB3
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB4
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB5
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB6
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB7
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB8
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB9
+Change Component Designator: OldDesignator=RGB? NewDesignator=RGB10
+Change Component Designator: OldDesignator=RGB?? NewDesignator=RGB1
+Change Component Designator: OldDesignator=U?? NewDesignator=U1
+Change Net Name : Old Net Name=NetRGB??_1 New Net Name=NetRGB1_1
+Change Net Name : Old Net Name=NetRGB?_1 New Net Name=NetRGB3_1
+Added Pin To Net: NetName=NetRGB2_1 Pin=RGB2-1
+Added Pin To Net: NetName=NetRGB2_1 Pin=RGB3-4
+Added Net: Name=NetRGB2_1
+Added Pin To Net: NetName=NetRGB4_1 Pin=RGB4-1
+Added Pin To Net: NetName=NetRGB4_1 Pin=RGB5-4
+Added Net: Name=NetRGB4_1
+Added Pin To Net: NetName=NetRGB6_1 Pin=RGB6-1
+Added Pin To Net: NetName=NetRGB6_1 Pin=RGB7-4
+Added Net: Name=NetRGB6_1
+Added Pin To Net: NetName=NetRGB7_1 Pin=RGB7-1
+Added Pin To Net: NetName=NetRGB7_1 Pin=RGB8-4
+Added Net: Name=NetRGB7_1
+Added Pin To Net: NetName=NetRGB8_1 Pin=RGB8-1
+Added Pin To Net: NetName=NetRGB8_1 Pin=RGB9-4
+Added Net: Name=NetRGB8_1
+Added Pin To Net: NetName=NetRGB9_1 Pin=RGB9-1
+Added Pin To Net: NetName=NetRGB9_1 Pin=RGB10-4
+Added Net: Name=NetRGB9_1
+Added Member To Class: ClassName=Payload Member=Component FPC1 FH34SRJ-12S-0.5SH(50)
+Added Member To Class: ClassName=Payload Member=Component H1 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H2 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H3 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component P1 BurnPad
+Added Member To Class: ClassName=Payload Member=Component P2 BurnPad
+Added Member To Class: ClassName=Payload Member=Component P4 BurnPad
+Added Member To Class: ClassName=Payload Member=Component RGB2 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB3 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB4 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB5 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB7 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB8 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB9 XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB10 XL-1010RGBC-WS2812B

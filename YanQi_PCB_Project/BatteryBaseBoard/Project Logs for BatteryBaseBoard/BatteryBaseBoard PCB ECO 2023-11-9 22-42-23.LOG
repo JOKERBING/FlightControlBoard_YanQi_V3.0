@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=U1 Old Footprint=M2+2 New Footprint=M2*4*1.5+2.5*1
+Change Component Footprint: Designator=U2 Old Footprint=M2+2 New Footprint=M2*4*1.5+2.5*1
+Change Component Footprint: Designator=U3 Old Footprint=M2+2 New Footprint=M2*4*1.5+2.5*1
+Change Component Footprint: Designator=U4 Old Footprint=M2+2 New Footprint=M2*4*1.5+2.5*1
+Change Net Name : Old Net Name=B+ New Net Name=B-
+Change Net Name : Old Net Name=B- New Net Name=B+
+Change Net Name : Old Net Name=BAT New Net Name=BGND
+Change Net Name : Old Net Name=BGND New Net Name=BAT

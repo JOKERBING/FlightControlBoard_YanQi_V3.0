@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PayloadBoard.PcbDoc   2024/4/9  20:40:33
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PayloadBoard-RoundHoles.TXT
+ASCII SlotHoles File : PayloadBoard-SlotHoles.TXT
+EIA File   : PayloadBoard.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             59        PTH        5.68inch (144.24mm)
+T2      26mil (0.65mm)                                            Slot              4         PTH        1.64inch (41.65mm)
+T3      43mil (1.1mm)                                             Round             4         PTH        0.30inch (7.62mm)
+T4      79mil (1.999mm)                                           Round             8         PTH        3.58inch (90.90mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00

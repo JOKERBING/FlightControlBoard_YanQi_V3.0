@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BatteryBoard.PcbDoc   2023/11/10  20:58:05
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BatteryBoard-RoundHoles.TXT
+ASCII SlotHoles File : BatteryBoard-SlotHoles.TXT
+EIA File   : BatteryBoard.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      39mil (1.001mm)                                           Round             8         PTH        0.55inch (14.00mm)
+T2      39mil (1.001mm)                                           Slot              2         PTH        1.71inch (43.56mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              10
+
+Total Processing Time (hh:mm:ss) : 00:00:00

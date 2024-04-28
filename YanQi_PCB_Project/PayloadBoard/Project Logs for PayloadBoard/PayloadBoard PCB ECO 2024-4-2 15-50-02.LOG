@@ -1,0 +1,38 @@
+Added Component: Designator=H5(M2_HOLE)
+Added Component: Designator=H6(M2_HOLE)
+Added Component: Designator=H7(M2_HOLE)
+Added Component: Designator=H8(M2_HOLE)
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H8-1
+Added Pin To Net: NetName=System_5V Pin=RGB1-2
+Added Pin To Net: NetName=GND Pin=RGB1-3
+Added Pin To Net: NetName=SRGBLED Pin=RGB1-4
+Added Pin To Net: NetName=System_5V Pin=RGB2-2
+Added Pin To Net: NetName=GND Pin=RGB2-3
+Added Pin To Net: NetName=System_5V Pin=RGB3-2
+Added Pin To Net: NetName=GND Pin=RGB3-3
+Added Pin To Net: NetName=System_5V Pin=RGB4-2
+Added Pin To Net: NetName=GND Pin=RGB4-3
+Added Pin To Net: NetName=System_5V Pin=RGB5-2
+Added Pin To Net: NetName=GND Pin=RGB5-3
+Added Pin To Net: NetName=System_5V Pin=RGB6-2
+Added Pin To Net: NetName=GND Pin=RGB6-3
+Added Pin To Net: NetName=SRGBLED Pin=RGB6-4
+Added Pin To Net: NetName=System_5V Pin=RGB7-2
+Added Pin To Net: NetName=GND Pin=RGB7-3
+Added Pin To Net: NetName=System_5V Pin=RGB8-2
+Added Pin To Net: NetName=GND Pin=RGB8-3
+Added Pin To Net: NetName=System_5V Pin=RGB9-2
+Added Pin To Net: NetName=GND Pin=RGB9-3
+Added Pin To Net: NetName=System_5V Pin=RGB10-2
+Added Pin To Net: NetName=GND Pin=RGB10-3
+Added Member To Class: ClassName=Payload Member=Component FPC2 FH34SRJ-12S-0.5SH(50)
+Added Member To Class: ClassName=Payload Member=Component H4 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H5 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H6 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H7 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H8 M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component P3 BurnPad
+Added Member To Class: ClassName=Payload Member=Component RGB6 XL-1010RGBC-WS2812B

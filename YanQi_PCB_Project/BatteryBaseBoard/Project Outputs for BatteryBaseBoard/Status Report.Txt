@@ -1,0 +1,11 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [BatteryBaseBoard.PrjPcb]
+   Generated File[Fabrication Testpoint Report for BatteryBaseBoard.csv]
+   Generated File[Fabrication Testpoint Report for BatteryBaseBoard.ipc]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 16:04:33 On 2024/4/19

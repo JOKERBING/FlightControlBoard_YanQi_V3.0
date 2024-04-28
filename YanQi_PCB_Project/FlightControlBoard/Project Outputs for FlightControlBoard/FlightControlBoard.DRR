@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: FlightControlBoard.PcbDoc   2024/4/9  20:36:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : FlightControlBoard-RoundHoles.TXT
+ASCII SlotHoles File : FlightControlBoard-SlotHoles.TXT
+EIA File   : FlightControlBoard.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.15mm)                                             Round             811       PTH        26.52inch (673.73mm)
+T2      32mil (0.8mm)                                             Slot              12        PTH        6.51inch (165.42mm)
+T3      47mil (1.199mm)                                           Slot              4         PTH        0.74inch (18.82mm)
+T4      79mil (1.999mm)                                           Round             4         PTH        2.95inch (75.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              831
+
+Total Processing Time (hh:mm:ss) : 00:00:00

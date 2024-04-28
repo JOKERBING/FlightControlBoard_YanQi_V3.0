@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+F:\Fully_Autonomous_MAV_YanQi_V3.0\YanQi_PCB_Project\PayloadBoard\Project Outputs for PayloadBoard\Pick Place for PayloadBoard.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/04/24
+Time:       20:42
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P3","BurnPad","TopLayer","BURNPAD_0.8MM","452.756","590.551","0",""
+"P2","BurnPad","TopLayer","BURNPAD_0.8MM","397.638","590.551","0",""
+"P1","BurnPad","TopLayer","BURNPAD_0.8MM","342.520","590.551","0",""
+"U3","QMC5883L","TopLayer","LGA-16_L3.0-W3.0-P0.50-BL_SQ","118.110","649.606","0",""
+"U1","RT9013-33GB","TopLayer","SOT-23-5","905.512","649.606","0",""
+"P11","BurnPad","TopLayer","BURNPAD_0.8MM","393.701","1236.220","0",""
+"P10","BurnPad","TopLayer","BURNPAD_0.8MM","393.701","1311.024","0",""
+"P9","BurnPad","TopLayer","BURNPAD_0.8MM","393.701","1370.079","0",""
+"P8","BurnPad","TopLayer","BURNPAD_0.8MM","393.701","1181.102","0",""
+"C7","4.7uF","TopLayer","C0402","125.984","783.465","0",""
+"C6","0.22uF","TopLayer","C0402","125.984","818.898","180",""
+"C5","1uF","BottomLayer","C0402","255.905","1507.874","270",""
+"C4","100nF","TopLayer","C0201","137.795","519.685","180",""
+"C3","100nF","TopLayer","C0201","905.512","779.528","0",""
+"C2","1uF","TopLayer","C0402","905.512","748.032","0",""
+"C1","1uF","TopLayer","C0402","905.512","551.181","180",""
+"USBC1","918-418K2024S40000","BottomLayer","USB-C-SMD_TYPE-C-USB-4","511.811","211.713","180",""
+"FPC3","FH34SRJ-6S-0.5SH(50)","TopLayer","FFC-SMD_6P-P0.50_FH34SRJ-6S-0.5SH","511.811","374.016","180",""
+"H8","M2_HOLE","TopLayer","M2_HOLE","990.158","413.386","0",""
+"H7","M2_HOLE","TopLayer","M2_HOLE","33.465","413.386","0",""
+"H6","M2_HOLE","TopLayer","M2_HOLE","990.158","885.827","0",""
+"H5","M2_HOLE","TopLayer","M2_HOLE","33.465","885.827","0",""
+"U2","ESP-01F-2M","BottomLayer","WIFIM-SMD_ESP-01F-2M","511.811","1358.269","180",""
+"RGB6","XL-1010RGBC-WS2812B","BottomLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","866.142","413.386","0",""
+"RGB7","XL-1010RGBC-WS2812B","TopLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","787.402","413.386","0",""
+"RGB2","XL-1010RGBC-WS2812B","TopLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","236.220","413.386","180",""
+"RGB4","XL-1010RGBC-WS2812B","TopLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","236.220","885.827","180",""
+"RGB10","XL-1010RGBC-WS2812B","TopLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","748.032","1496.063","0",""
+"RGB8","XL-1010RGBC-WS2812B","BottomLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","866.142","885.827","180",""
+"RGB9","XL-1010RGBC-WS2812B","TopLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","787.402","885.827","0",""
+"RGB3","XL-1010RGBC-WS2812B","BottomLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","157.480","885.827","0",""
+"RGB5","XL-1010RGBC-WS2812B","TopLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","275.591","1496.063","180",""
+"RGB1","XL-1010RGBC-WS2812B","BottomLayer","LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B","157.480","413.386","180",""
+"P7","BurnPad","BottomLayer","BURNPAD_0.8MM","255.905","622.047","270",""
+"P5","BurnPad","BottomLayer","BURNPAD_0.8MM","255.905","724.409","270",""
+"P4","BurnPad","BottomLayer","BURNPAD_0.8MM","255.905","775.591","270",""
+"P6","BurnPad","BottomLayer","BURNPAD_0.8MM","255.905","673.228","270",""
+"M1","BLACKSHEEP","BottomLayer","BLACKSHEEP","511.811","511.811","0",""
+"H3","M2_HOLE","TopLayer","M2_HOLE","118.110","118.110","0",""
+"H1","M2_HOLE","TopLayer","M2_HOLE","118.110","1496.063","0",""
+"H2","M2_HOLE","TopLayer","M2_HOLE","905.512","1496.063","0",""
+"H4","M2_HOLE","TopLayer","M2_HOLE","905.512","118.110","0",""
+"FPC2","FH34SRJ-12S-0.5SH(50)","TopLayer","FFC-SMD_12P-P0.50_FH34SRJ-12S-0.5SH","511.811","748.032","180",""
+"FPC1","FH34SRJ-12S-0.5SH(50)","BottomLayer","FFC-SMD_12P-P0.50_FH34SRJ-12S-0.5SH","511.811","748.032","0",""

@@ -1,0 +1,382 @@
+Added Component: Designator=FPC?(FFC-SMD_12P-P0.50_FH34SRJ-12S-0.5SH)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "磷青铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190903/C424660_13F2CCC518A089E10A5EDDF0ACBC803F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FH34SRJ-12S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:12P 双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HRS(广濑)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FH34SRJ-12S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C424659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FH34SRJ-12S-0.5SH(50)"; VariantName = "[No Variations]"
+Added Component: Designator=FPC?(FFC-SMD_12P-P0.50_FH34SRJ-12S-0.5SH)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "磷青铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20190903/C424660_13F2CCC518A089E10A5EDDF0ACBC803F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FH34SRJ-12S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:12P 双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HRS(广濑)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FH34SRJ-12S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "12P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C424659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FH34SRJ-12S-0.5SH(50)"; VariantName = "[No Variations]"
+Added Component: Designator=H?(M2_HOLE)
+Added Component: Designator=H?(M2_HOLE)
+Added Component: Designator=H?(M2_HOLE)
+Added Component: Designator=H?(M2_HOLE)
+Added Component: Designator=M??(BLACKSHEEP)
+Added Component: Designator=P?(BurnPad)
+Added Component: Designator=P?(BurnPad)
+Added Component: Designator=P?(BurnPad)
+Added Component: Designator=P?(BurnPad)
+Added Component: Designator=RGB??(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Component: Designator=RGB?(LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230111/7F92487BABF607E2EE42D1D66EFE1A21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm~475nm；520nm~530nm；620nm~625nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "RGB三色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage (VF)"; Value = "3.5V~5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "无色透明透镜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "300mcd；800mcd；200mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XINGLIGHT(成兴光)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Sytle"; Value = "正贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-20℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,1x1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5349953"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XL-1010RGBC-WS2812B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AUX1 Pin=FPC?-5
+Added Net: Name=AUX1
+Added Pin To Net: NetName=AUX2 Pin=FPC?-4
+Added Net: Name=AUX2
+Added Pin To Net: NetName=GND Pin=FPC?-12
+Added Pin To Net: NetName=GND Pin=FPC?-12
+Added Pin To Net: NetName=GND Pin=FPC?-13
+Added Pin To Net: NetName=GND Pin=FPC?-13
+Added Pin To Net: NetName=GND Pin=FPC?-14
+Added Pin To Net: NetName=GND Pin=FPC?-14
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=H?-1
+Added Pin To Net: NetName=GND Pin=M??-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C2_SCL Pin=FPC?-6
+Added Net: Name=I2C2_SCL
+Added Pin To Net: NetName=I2C2_SDA Pin=FPC?-7
+Added Net: Name=I2C2_SDA
+Added Pin To Net: NetName=NetRGB??_1 Pin=RGB?-4
+Added Pin To Net: NetName=NetRGB??_1 Pin=RGB??-1
+Added Net: Name=NetRGB??_1
+Added Pin To Net: NetName=NetRGB?_1 Pin=RGB?-1
+Added Pin To Net: NetName=NetRGB?_1 Pin=RGB?-4
+Added Net: Name=NetRGB?_1
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Added Pin To Net: NetName=SPI1_MISO Pin=FPC?-10
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=FPC?-9
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=FPC?-11
+Added Net: Name=SPI1_SCK
+Added Pin To Net: NetName=SRGBLED Pin=FPC?-8
+Added Net: Name=SRGBLED
+Added Pin To Net: NetName=System_5V Pin=FPC?-1
+Added Pin To Net: NetName=System_5V Pin=FPC?-1
+Added Pin To Net: NetName=System_5V Pin=M??-2
+Added Pin To Net: NetName=System_5V Pin=P?-1
+Added Net: Name=System_5V
+Added Pin To Net: NetName=UART5_RX Pin=FPC?-8
+Added Pin To Net: NetName=UART5_RX Pin=M??-3
+Added Net: Name=UART5_RX
+Added Pin To Net: NetName=UART5_TX Pin=FPC?-9
+Added Pin To Net: NetName=UART5_TX Pin=M??-4
+Added Net: Name=UART5_TX
+Added Pin To Net: NetName=UART7_RX Pin=FPC?-6
+Added Pin To Net: NetName=UART7_RX Pin=P?-1
+Added Net: Name=UART7_RX
+Added Pin To Net: NetName=UART7_TX Pin=FPC?-7
+Added Pin To Net: NetName=UART7_TX Pin=P?-1
+Added Net: Name=UART7_TX
+Added Pin To Net: NetName=USART1_RX Pin=FPC?-10
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=FPC?-11
+Added Net: Name=USART1_TX
+Added Pin To Net: NetName=USART2_RX Pin=FPC?-2
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=FPC?-3
+Added Net: Name=USART2_TX
+Added Pin To Net: NetName=USART3_RX Pin=FPC?-5
+Added Net: Name=USART3_RX
+Added Pin To Net: NetName=USART3_TX Pin=FPC?-4
+Added Net: Name=USART3_TX
+Added Pin To Net: NetName=USART6_RX Pin=FPC?-3
+Added Net: Name=USART6_RX
+Added Pin To Net: NetName=USART6_TX Pin=FPC?-2
+Added Net: Name=USART6_TX
+Added Class: Name=Payload

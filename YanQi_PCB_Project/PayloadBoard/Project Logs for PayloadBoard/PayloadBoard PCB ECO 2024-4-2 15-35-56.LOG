@@ -1,0 +1,47 @@
+Added Component: Designator=U??(WIFIM-SMD_ESP-01F-2M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Antenna Type"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Processor"; Value = "ESP8285芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210401/C2764054_7A91A27C6594F8A1968F9CAA7474E658.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ESP-01F-2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "完整的802.11b/g/nWi-FiSoC模块"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ai-Thinker(安信可)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ESP-01F-2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "3V~3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Power"; Value = "16dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Receive  Current"; Value = "56mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Send  Current"; Value = "170mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-90dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2764054"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Support Interface"; Value = "GPIO；UART；I2C；PWM；SPI；ADC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESP-01F-2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wireless Standard"; Value = "-"; VariantName = "[No Variations]"
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Add Net: Net with name "NetRGB?_1" already exists
+Added Member To Class: ClassName=Payload Member=Component FPC? FH34SRJ-12S-0.5SH(50)
+Added Member To Class: ClassName=Payload Member=Component H? M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H? M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component H? M2_HOLE
+Added Member To Class: ClassName=Payload Member=Component P? BurnPad
+Added Member To Class: ClassName=Payload Member=Component P? BurnPad
+Added Member To Class: ClassName=Payload Member=Component P? BurnPad
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component RGB? XL-1010RGBC-WS2812B
+Added Member To Class: ClassName=Payload Member=Component U?? ESP-01F-2M

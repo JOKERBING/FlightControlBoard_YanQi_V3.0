@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=P4
+Change Component Designator: OldDesignator=P2 NewDesignator=P5
+Change Component Designator: OldDesignator=P3 NewDesignator=P6
+Change Component Designator: OldDesignator=P4 NewDesignator=P7
+Change Component Designator: OldDesignator=P5 NewDesignator=P8
+Change Component Designator: OldDesignator=P6 NewDesignator=P9
+Change Component Designator: OldDesignator=P7 NewDesignator=P10
+Change Component Designator: OldDesignator=P8 NewDesignator=P11
+Added Component: Designator=P1(BurnPad)
+Added Component: Designator=P2(BurnPad)
+Added Component: Designator=P3(BurnPad)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=USART1_TX Pin=P2-1
+Added Pin To Net: NetName=USART1_RX Pin=P3-1
+Change Net Name : Old Net Name=NetP8_1 New Net Name=NetP11_1
+Added Member To Class: ClassName=Payload Member=Component P9 BurnPad
+Added Member To Class: ClassName=Payload Member=Component P10 BurnPad
+Added Member To Class: ClassName=Payload Member=Component P11 BurnPad
