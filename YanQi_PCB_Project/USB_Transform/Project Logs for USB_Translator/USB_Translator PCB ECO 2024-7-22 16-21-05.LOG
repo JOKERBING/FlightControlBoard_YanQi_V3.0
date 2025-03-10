@@ -1,0 +1,73 @@
+Added Component: Designator=FPC?(FFC-SMD_6P-P0.50_FH34SRJ-6S-0.5SH)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "磷青铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180712/C224194_08937A353F43080B85824A8384727686.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FH34SRJ-6S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:6P 双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HRS(广濑)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FH34SRJ-6S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C224194"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FH34SRJ-6S-0.5SH(50)"; VariantName = "[No Variations]"
+Added Component: Designator=USBC?(USB-C-SMD_TYPE-C-USB-4)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230504/AD68741A173EB676C7BDD03FFA4DE90F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "918-418K2024S40000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Type-C 母座"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "精拓金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "918-418K2024S40000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "918-418K2024S40000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "16P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C168688"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TYPE-C 3.1 MT 16P_C168688"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=FPC?-6
+Added Pin To Net: NetName=GND Pin=FPC?-7
+Added Pin To Net: NetName=GND Pin=FPC?-8
+Added Pin To Net: NetName=GND Pin=USBC?-13
+Added Pin To Net: NetName=GND Pin=USBC?-14
+Added Pin To Net: NetName=GND Pin=USBC?-15
+Added Pin To Net: NetName=GND Pin=USBC?-16
+Added Pin To Net: NetName=GND Pin=USBC?-A12B1
+Added Pin To Net: NetName=GND Pin=USBC?-B12A1
+Added Net: Name=GND
+Added Pin To Net: NetName=USB_5V Pin=FPC?-1
+Added Pin To Net: NetName=USB_5V Pin=USBC?-A9B4
+Added Pin To Net: NetName=USB_5V Pin=USBC?-B9A4
+Added Net: Name=USB_5V
+Added Pin To Net: NetName=USB_CC1 Pin=FPC?-5
+Added Pin To Net: NetName=USB_CC1 Pin=USBC?-A5
+Added Net: Name=USB_CC1
+Added Pin To Net: NetName=USB_CC2 Pin=FPC?-2
+Added Pin To Net: NetName=USB_CC2 Pin=USBC?-B5
+Added Net: Name=USB_CC2
+Added Pin To Net: NetName=USB_D+ Pin=FPC?-4
+Added Pin To Net: NetName=USB_D+ Pin=USBC?-A6
+Added Pin To Net: NetName=USB_D+ Pin=USBC?-B6
+Added Net: Name=USB_D+
+Added Pin To Net: NetName=USB_D- Pin=FPC?-3
+Added Pin To Net: NetName=USB_D- Pin=USBC?-A7
+Added Pin To Net: NetName=USB_D- Pin=USBC?-B7
+Added Net: Name=USB_D-
+Added Class: Name=USB_Translator

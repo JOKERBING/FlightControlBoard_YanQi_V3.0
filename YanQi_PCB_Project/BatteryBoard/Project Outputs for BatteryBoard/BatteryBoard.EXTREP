@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: BatteryBoard.GBR   2023/11/10  20:57:46
+Gerber File Extension Report For: BatteryBoard.GBR   2024/12/30  16:22:38
 ------------------------------------------------------------------------------------------
 
 
@@ -7,6 +7,7 @@ Gerber File Extension Report For: BatteryBoard.GBR   2023/11/10  20:57:46
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .gbr                Top Overlay                             
+.gbr                Top Paste                               
 .gbr                Top Solder                              
 .gbr                Top Layer                               
 .gbr                Bottom Layer                            

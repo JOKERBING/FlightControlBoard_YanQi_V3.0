@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=UART4_RX Pin=P2-1
+Added Pin To Net: NetName=UART4_TX Pin=P3-1
+Added Pin To Net: NetName=System_5V Pin=P4-1

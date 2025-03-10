@@ -26,6 +26,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Paste
+      File : BatteryBoard_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : BatteryBoard_Paste_Bot.gbr
 

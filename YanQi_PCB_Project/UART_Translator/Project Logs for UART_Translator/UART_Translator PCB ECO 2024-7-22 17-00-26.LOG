@@ -1,0 +1,44 @@
+Added Component: Designator=FPC1(FFC-SMD_4P-P0.50_FH34SRJ-4S-0.5SH)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "磷青铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210303/C596732_A8DFF1AAA7954D31ED084C13292B0B28.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FH34SRJ-4S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FFC, FCB Thickness"; Value = "0.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "间距:0.5mm P数:4P 双侧触点/上下接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Locking Feature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HRS(广濑)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FH34SRJ-4S-0.5SH(50)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Soldering Temperature(Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=0.5mm,卧贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C596732"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FH34SRJ-4S-0.5SH(50)"; VariantName = "[No Variations]"
+Added Component: Designator=P1(BurnPad_0.8mm)
+Added Component: Designator=P2(BurnPad_0.8mm)
+Added Component: Designator=P3(BurnPad_0.8mm)
+Added Component: Designator=P4(BurnPad_0.8mm)
+Added Pin To Net: NetName=GND Pin=FPC1-1
+Added Pin To Net: NetName=GND Pin=FPC1-5
+Added Pin To Net: NetName=GND Pin=FPC1-6
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=System_5V Pin=FPC1-4
+Added Pin To Net: NetName=System_5V Pin=P4-1
+Added Net: Name=System_5V
+Added Pin To Net: NetName=UART4_RX Pin=FPC1-2
+Added Pin To Net: NetName=UART4_RX Pin=P2-1
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=FPC1-3
+Added Pin To Net: NetName=UART4_TX Pin=P3-1
+Added Net: Name=UART4_TX
+Added Class: Name=UART_Translator

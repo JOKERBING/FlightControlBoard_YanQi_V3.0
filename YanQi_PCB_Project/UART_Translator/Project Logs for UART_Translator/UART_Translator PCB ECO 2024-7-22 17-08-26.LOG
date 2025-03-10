@@ -1,0 +1,12 @@
+Added Component: Designator=P1(BurnPad_1.0mm)
+Added Component: Designator=P2(BurnPad_1.0mm)
+Added Component: Designator=P3(BurnPad_1.0mm)
+Added Component: Designator=P4(BurnPad_1.0mm)
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P4-1
+Added Member To Class: ClassName=UART_Translator Member=Component P1 BurnPad
+Added Member To Class: ClassName=UART_Translator Member=Component P2 BurnPad
+Added Member To Class: ClassName=UART_Translator Member=Component P3 BurnPad
+Added Member To Class: ClassName=UART_Translator Member=Component P4 BurnPad

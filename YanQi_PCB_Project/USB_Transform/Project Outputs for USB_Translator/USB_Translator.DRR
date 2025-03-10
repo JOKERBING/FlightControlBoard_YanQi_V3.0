@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_Translator.PcbDoc   2024/8/9  9:54:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_Translator-RoundHoles.TXT
+ASCII SlotHoles File : USB_Translator-SlotHoles.TXT
+EIA File   : USB_Translator.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             10        PTH        0.42inch (10.66mm)
+T2      26mil (0.65mm)                                            Slot              4         PTH        2.18inch (55.26mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              14
+
+Total Processing Time (hh:mm:ss) : 00:00:00
